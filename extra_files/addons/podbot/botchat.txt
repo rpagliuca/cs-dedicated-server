@@ -1,0 +1,136 @@
+# Translated Portuguese BotChat File done by
+# =[-AWP-]=Freak <efness@bol.com.br>
+# All Bot Chat Messages are stored here
+# All comments start with a "#" char
+# You can write as much comments as you like, but
+# please avoid using tabs, whitespaces and blank lines
+# (they will be parsed out but you never know!)
+# Also be sure that a Line doesn't exceed 80 chars
+# (including carriage return)
+#
+# Messages for each Type of Chat begin with a marker
+# enclosed in []
+# Marker Types:
+# [BOMBPLANT] Holds the Messages for the Counter Terrorists
+#	      if a Bomb got planted
+# [KILLED]    Bots say this Message if they killed somebody
+# [DEADCHAT]  Bots say these Lines if they are dead and in
+#	      Spectator Mode
+#
+# Maybe more Message types will be added in the future...
+#
+#
+#
+#
+# Counter Messages for Bomb planted:
+# Minimum Number is 1
+#
+[BOMBPLANT]
+Jeeesusss Cristo, denovo nao!
+Explodam outra coisa, merdas !
+Da ultima vez levei 5 segundos para achar e desarmar...
+Ei, o fio vermelho ou o fio azul ?
+...E meu coracao vai buuuum *sorriso*
+#
+#
+#
+#
+#
+#
+# Messages after killing somebody:
+# Minimum Number is 1
+# For the %v the name of the victim will
+# be inserted
+#
+[KILLED]
+%v, voce nao eh pareo para mim !
+Desculpe, %v. Voce apareceu no meu caminho.
+Voce cai para tras muito bem, %v.
+Tive que fazer isso, %v. Voce entende.
+Voce devia ter fugido enquanto teve a chance, %v.
+Eu sempre fui melhor, %v. Sempre.
+Aposto que voce odeia quando isso acontece, nao, %v?
+Isso vai lhe ensinar, %v !
+Ei, vamos la, %v! Voce quase me feriu dessa vez.
+Ha...ha!
+Voce nao eh nada, %v. Nada mesmo.
+%v Me preocupo com voce...
+Desculpe %v, meu comando de tiro na cabeca eh melhor que o seu.
+#
+#
+#
+#
+#
+#
+#
+# Chat Messages when dead and bored
+# !!Minimum Number is 9!!
+#
+[DEADCHAT]
+Me faz doente olhar para esses tolos
+Ta na hora de trocar de mapa, nao ?
+Esses campers perdedores !
+Estou com tanto tedioooo !
+Com certeza vamos vencer :)
+Ser um espectador eh foda...
+Espero que alguem bom junte-se ao servidor.
+Aquilo pareceu doloroso.
+Isso eh divertido.
+Eu nao sabia que era possivel jogar ruim desse jeito.
+Porque todos continuam tentando me ferir :)
+Visitem http://www.geocities.com/countfloyd_1999/
+Meu pulso ja ta doendo...
+Esse mapa eh uma bosta...
+Estou num mal dia
+Morte a todos os campers !
+Eles nao vao parar de campear ?
+Sou melhor em Quake 3, com certeza!
+Voce nao acha que o Android Bot continua melhor ?
+Botman deve ser um cara legal...
+Bots estupidos!
+Olhe esses idiotas !
+Minha irmazinha joga melhor que isso !
+Estou tao cansado hoje...
+Eu realmente deveria ir dormir agora.
+Eu geralmente nao jogo tao ruim assim !
+DE_DUST hoje nao, por favor !
+Eu realmente odeio esse mapa :(
+Usar a sniper eh so o que eles sabem fazer.
+No proximo round vou destruir voces
+Por favor votem por uma troca de mapa !!!
+Algum dos Bots ja ta preso ?
+#32 upto here
+Buuuuuum !!! *lol*
+Insano na membrana, hehe!
+Tenho certeza que aquele cara usou um Proxy de pontaria !
+Tem bots no jogo ?
+Voce poderia me dar seu comando de tiro na cabeca ?
+Proximo round deveremos sair juntos.
+Fodam-se todos os matadores de amigos!!!
+Nao sou bom em subir escadas...
+Sobre o que eh um cla ? Nao entendo
+Voce conhece o Jumbot ? Ele realmente detona!
+Se o Botman eh legal, imagine o TheFatal entao ?
+Lag da porra !!
+Acho que o NNBot eh muito melhor que o RealBot.
+Que pena que o Android Bot demora pra renovar.
+Estou fora para um cigarro...
+Porque eles incluiram veiculos em Cs ?
+Tive que recarregar e ele me atirou na cabeca!
+
+# Start of the "dynamic" replies from here
+# After each @KEY Tag you need to specify the
+# keywords in quotation marks and uppercase. You can
+# have several keywords (aliases) each separated by a comma.
+# After the keywords line, the answers or messages to this
+# special keyword need to be given. In theory there can be an unlimited
+# number of answers of course you should care about the used memory ;)    
+
+[REPLIES]
+
+@KEY " QUEM ", " QUANDO ", " ONDE "
+Boa pergunta, %s!
+
+[UNKNOWN]
+Bla bla bla...
+Ahn??!

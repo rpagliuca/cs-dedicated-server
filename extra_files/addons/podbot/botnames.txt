@@ -1,0 +1,28 @@
+# This File contains all Botnames which are used if you don't
+# specify a name using "pb add"
+# There must be at least 9 names in here and you're allowed a maximum
+# of 21 chars for the name ! Why ? The "[POD]" will be
+# placed before the Name and the Skill will be appended...
+#
+# Line below contains 21 chars as a marker for you
+#23456789012345678901
+#
+#
+Doctrine
+Amazon
+Mysql
+Php
+Javascript
+Symfony
+Controller
+Model
+Template
+Twig
+Psr2
+Jquery
+Vim
+Netbeams
+Phpstorm
+Debian
+Ubuntu
+Slackware
